@@ -17,7 +17,8 @@ yum --enablerepo=epel list | less
 rpm -Uvh http://rpms.remirepo.net/enterprise/remi-release-7.rpm
 
 
-
+###  Centos Official repo
+http://mirror.centos.org/centos/7/os/x86_64/Packages/
 
 [base]
 name=CentOS $releasever – Base
